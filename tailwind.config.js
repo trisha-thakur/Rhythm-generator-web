@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        'arimo' : ['Arimo', 'sans-serif']
+      },
       keyframes:{
         Animation: {
           blob : "blob 1s infinite"
